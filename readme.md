@@ -29,7 +29,8 @@ I'm driven by the idea of working independently on powerful tools that create im
 ---
 
 ### 💡 **My Philosophy:**
-I believe in working smart, not just hard. My goal is to **build tech that works for me**, not to be glued to editing software all day. I’m exploring ideas that are **scalable**, **automated**, and **independent**.
+I believe in working smart, not just hard. My goal is to **build tech that works for me**, exploring ideas that are **scalable**, **automated**, and **independent**.
+
 
 ---
 
