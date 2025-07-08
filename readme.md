@@ -4,7 +4,7 @@
 
 ### A Curious Programmer & Problem-Solver from Kashmir, India
 
-Welcome! I'm **Shahid**, a passionate learner and developer currently pursuing **FYIMP (Data Science & AI)**. With a strong interest in both **programming** and **real-world automation**, I'm constantly building skills in **C**, **C++**, **Python**, and exploring areas like **IoT**, **Data Science**, and **algorithmic automation**.
+Welcome! I'm **Shahid**, a passionate learner and developer currently pursuing **FYIMP (Data Science & AI)**. With a strong interest in both **programming** and **real-world automation**, I'm constantly building skills in **C**, **Python**, and exploring areas like **IoT**, **Data Science**, and **algorithmic automation**.
 
 I'm driven by the idea of working independently on powerful tools that create impact — whether that's in coding, automation, or intelligent systems. While I have experience in **content creation**, I am now fully focused on **software development**, **freelancing**, and projects that scale without being tied to a device all day.
 
