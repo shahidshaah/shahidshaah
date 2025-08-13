@@ -1,0 +1,20 @@
+import numpy as np
+import pandas as pd
+x = np.array([3,2,4,2,3])
+my_ser = pd.Series([2,3,4,2,2])
+# print(my_ser)
+my_ser2 = pd.Series(['Hello', 'How', 'you', 'doing', '!'])
+# print(my_ser2)
+my_ser3 = pd.Series(x)
+# print(my_ser3)
+my_ser4 = pd.Series([2,3,2],['One', 'Three', 'Two'])
+# print(my_ser4)
+my_ser5 = pd.Series([1,2,4], [7,8,9])
+# print(my_ser5)
+my_ser5.index = [1,2,3]
+# print(my_ser5)
+# print(my_ser[0:3])
+# print(my_ser[3:0:-1])
+# print(my_ser[:])
+# print(my_ser2.str.contains('H'))
+print(my_ser+5)

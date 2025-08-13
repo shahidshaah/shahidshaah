@@ -1,4 +1,7 @@
 import numpy as np
-rolls=np.random.randint(1,45,2).tolist()
-print(type(rolls).__name__)
-print(rolls)
+def num3():
+    x=np.array([4,5,6,7,8]) 
+    y=x*2
+    print(y)
+# num3()
+def num4():

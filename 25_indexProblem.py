@@ -7,7 +7,7 @@ for i in set(x):
     if s == i:
         wednesday+=1
         print(f"{i} is present more than once")
-print("It is present at index(s): ")
+        print("It is present at index(s): ")
 for i in range(t):
     if s == x[i]:
         list.append(i)
