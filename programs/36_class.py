@@ -59,6 +59,7 @@ def eight():
     s = s.split(' ')
     print(s) 
 # eight()
+
 def nine():
     list = ['3','5','6','7','7']
     # s = 'gello hi byt byt'
@@ -66,6 +67,58 @@ def nine():
     # y = ':'.join(list)
     y = (','.join(map(str, list)))
     print(y) 
-nine()
-
-
+# nine()
+def ten():
+   s = 'hello of world azkaban azlan groot'
+   y = s.partition('ld')
+   print(y)
+# ten() #it returns a tuple
+#eleven
+def eleven():
+   s = 'hello of world azkaban azlan groot \n kjbfiuv \n fbyuf \n jebhd'
+   y = s.splitlines()
+   print(y)
+# eleven()
+#twelve
+#Zdef twelve():
+   s = 'hello22'
+   y = s.isalnum()
+   print(y)
+#twelve()
+#thirteen
+def thirteen():
+   s = 'hello22'
+   y = s.isalpha()
+   print(y)
+#thirteen()
+#fourteen
+def fourteen():
+   s = 'he-'
+   y = s.isascii()
+   print(y)
+# fourteen()
+#fourteen
+def fifteen():
+   s = 'he-😂'
+   y = s.isascii()
+   print(y)
+# sixteen()
+def sixteen():
+   s = '676.4'
+   y = s.isdecimal()
+   print(y)
+#sixteen()
+# seventeen()
+def sixteen():
+   s = '67890.1'
+   y = s.isdecimal()
+   print(y)
+# sixteen()
+# seventeen()
+def sixteen():
+   s = '676.4'
+   y = s.isnumeric()
+   print(y)
+sixteen()
+#what is the differnce between  isdigit and isdecimal.
+#
